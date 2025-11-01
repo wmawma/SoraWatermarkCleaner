@@ -15,7 +15,6 @@ For **Windows** users - No installation required!
 
 ## Usage | 使用方法
 
-
 1. Download and extract the zip file | 下载并解压 zip 文件
 2. Double-click `run.bat` | 双击 `run.bat` 文件
 3. The web service will start automatically! | 网页服务将自动启动！
